@@ -1,0 +1,3 @@
+http://example.com/
+https://github.githubassets.com/images/mona-loading-default.gif
+https://upload.wikimedia.org/wikipedia/commons/f/f0/Chromium_T-Rex-error-offline.png
